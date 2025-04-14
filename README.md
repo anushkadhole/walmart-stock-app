@@ -1,9 +1,9 @@
 # 🛒 Walmart Stock Application
 
-![Java]
-![React]
-![TypeScript]
-![Node.js]
+[Java]
+[React]
+[TypeScript]
+[Node.js]
 > 📦 A powerful inventory management system for data-driven retail decisions — built for speed, clarity, and control.
 
 **Walmart Stock Application** is a full-stack inventory dashboard that helps retailers analyze sales performance, monitor inventory health, and track profit margins — all in real-time.
@@ -28,8 +28,8 @@ User-friendly, dynamic interface with responsive components built using React & 
 
 | Layer        | Tools & Frameworks                                      |
 |--------------|----------------------------------------------------------|
-| Frontend     | ![React]
-| Backend      | ![Java]
+| Frontend     | [React]
+| Backend      | [Java]
 | UI Toolkit   | Java Swing (Desktop), Tailwind CSS (Web)                |
 | Data Layer   | JSON files / In-memory (customizable for SQL support)   |
 | State Mgmt   | React Context API or Redux Toolkit                      |
